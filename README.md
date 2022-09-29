@@ -6,6 +6,8 @@ Dave Williams, DitroniX 1981-2022  - ditronix.net
 
 EMIS features include ESP32 GTIL RS232 RS485 MODBUS RELAY EEPROM OPTO CT Clamp Current Voltage
 
+![](/images/EMIS 1-2209-103 PCB Populated.jpg)
+
 Remember!
 - Our SDKs are WeMos D1 Mini flashing compatible
 - Set the BOARD to ESP32 DEV Module (or similar).
