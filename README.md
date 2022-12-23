@@ -23,4 +23,4 @@ Further information can be found:
 - **WIKI**  https://ditronix.net/wiki/
 - **Shop**  https://ditronix.net/shop/
 
-Dave Williams | G8PUO | DitroniX 1981-2022 | ditronix.net
+Dave Williams, DitroniX 1981-2022  - ditronix.net
