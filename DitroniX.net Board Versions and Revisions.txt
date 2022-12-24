@@ -1,0 +1,24 @@
+
+For various reasons, our boards may require update.  The below list contains any revision information summary.
+
+Board: EMIS (Energy Monitoring IoT Sensors)
+Features include ESP32, LDO5V, LDO3V3, MODBUS, EEPROM, CT Clamp, AC/DC Multi-Current Sensor, Voltage Sensor, NTC, D1 USB Flashing Compatible
+
+1.2208-102	Beta Release
+1.2210-104	Production Release
+
+
+
+
+
+
+
+
+Further information can be found:
+
+Website https://ditronix.net/
+WIKI https://ditronix.net/wiki/
+GitHub https://github.com/DitroniX
+Shop https://ditronix.net/shop/
+
+Dave Williams | G8PUO | DitroniX 1981-2022 | ditronix.net
