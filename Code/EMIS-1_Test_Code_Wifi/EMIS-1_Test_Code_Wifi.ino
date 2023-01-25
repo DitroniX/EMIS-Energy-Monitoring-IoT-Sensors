@@ -1,22 +1,22 @@
 /*
   Dave Williams, DitroniX 2019-2022 (ditronix.net)
   EMIS-1 Energy Monitoring IoT Sensors v1.0
-  Features include ESP32, LDO5V, LDO3V3, GTIL, RS232, RS485, MODBUS, RELAY, EEPROM, OPTO, CT Clamp, Current, Voltage, NTC, D1 Flashing Compatible
-  PCA 1.2210-104 - Test Code Firmware v1 - 29th September 2022
+  Features include ESP32 GTIL RS232 RS485 MODBUS RELAY EEPROM OPTO CT Clamp Current Voltage
+  PCA v1.00 - Test Code Firmware v1 - 29th September 2022
 
   Simplified Board Bring Up Test - Wifi Scan (Output to Serial Print)
-
+  .
   Remember!
-  - Set the BOARD to ESP32, 'WEMOS D1 MINI ESP32' DEV Module (or similar).
-  - You may set the BAUD rate to 921600 to speed up flashing.
+  - Set the BOARD to ESP32 DEV Module (or similar).
+  - You can also set the BAUD rate up to 921600 to speed up flashing.
   - The SDK does NOT need external power to flash.  It will take Power from the USB 5V.
-  
-  Note: In the default state, upon first power up and during reset, the Green LED may be partially lit. Once programmed and the GPIO defined, the Green LED will go off after power up.
-
-  This test code is OPEN SOURCE and formatted for easier viewing.  Although is is not intended for real world use, it may be freely used, or modified as needed.
+  .
+  Note that in the default state, upon first power up and during reset, the Green LED will be partially lit.� Once programmed and the GPIO defined, the Green LED will go off after power up.
+  .
+  The purpose of this test code is to cycle through the various main functions of the board as part of bring up testing.
+  .
+  This test code is OPEN SOURCE and although is is not intended for real world use, it may be freely used, or modified as needed.
   It is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-
-  Further information, details and examples can be found on our website wiki pages ditronix.net/wiki and github.com/DitroniX
 */
 
 // Libraries
