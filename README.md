@@ -2,6 +2,8 @@
 
 EMIS features include ESP32 GTIL RS232 RS485 MODBUS RELAY EEPROM OPTO CT Clamp Current Voltage
 
+UPDATE: 20th April 2026.  This evaluation board is no longer supported.
+
 ![Display-Type-B](https://ditronix.net/wp-content/uploads/2022/09/EMIS-1-2209-103-PCB-Populated-scaled.jpg?raw=true)
 
 Remember!
